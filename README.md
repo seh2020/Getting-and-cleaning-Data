@@ -4,7 +4,7 @@ This repository is a submission for Getting and Cleaning Data course project on 
 ## Dataset
 Human Activity Recognition Using Smartphones
 
-## submitted Files
+## Submitted files
 1. CodeBook.md :  a codebook that describes the variables, the data, and any transformations
 
 2. "run_analysis.R" (the data download and then followed by the 5 steps required as described): 
